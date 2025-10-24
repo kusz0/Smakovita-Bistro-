@@ -1,3 +1,7 @@
+.nav-list-item:nth-child(2) a {
+  border-bottom: 1px solid var(--black-color);
+  color: var(--black-color);
+}
 body {
   width: 100%;
 }
